@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif
+}
+.imageHeight{
+   max-height: 75vh;
+}
+
+.cardHegiht{
+    max-height: 50vh;
+}
+.cardSectWidth{
+    max-width: 95vw;
+}
+.footColor{
+    background-color: #1d242d;
+}
+.footerDivMargin{
+    margin-top: -2rem!important;
+}
+.nav-link:hover{
+    color: #2d3dc8 !important;
+}
